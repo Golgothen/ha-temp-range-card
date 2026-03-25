@@ -1,4 +1,4 @@
-# temp-range-card
+# ha-temp-range-card
 
 A custom Home Assistant Lovelace card that displays daily, weekly, or monthly temperature ranges as a dumbbell or pill-bar chart. Inspired by the forecast-style range bars in the `clock-weather-card`.
 
