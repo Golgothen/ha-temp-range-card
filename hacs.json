@@ -1,0 +1,7 @@
+{
+  "name": "Temperature Range Card",
+  "description": "A Lovelace card displaying daily, weekly, or monthly temperature ranges as dumbbell or pill-bar charts.",
+  "render_readme": true,
+  "filename": "temp-range-card.js",
+  "content_in_root": true
+}
