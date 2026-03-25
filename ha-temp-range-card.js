@@ -262,4 +262,4 @@ class TempRangeCard extends HTMLElement {
   }
 }
 
-customElements.define('ha-temp-range-card', TempRangeCard);
+customElements.define('temp-range-card', TempRangeCard);
